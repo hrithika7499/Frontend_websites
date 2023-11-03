@@ -26,9 +26,15 @@ html,body{
 }
 #nav img{
     height:25px;
+    width:30%;
 }
 
 #nav h5{
     font-size:20px;
     font-weight:100;
+    width:30%;
+}
+#nav i{
+    width:30%;
+    text-align:right;
 }
